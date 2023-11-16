@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/CCOLLOT/appnametochange/cmd"
+	"github.com/CCOLLOT/qonto-app-1/cmd"
 )
 
 func main() {

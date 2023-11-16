@@ -7,8 +7,8 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/CCOLLOT/appnametochange/internal/app"
-	"github.com/CCOLLOT/appnametochange/internal/logger"
+	"github.com/CCOLLOT/qonto-app-1/internal/app"
+	"github.com/CCOLLOT/qonto-app-1/internal/logger"
 	"github.com/spf13/cobra"
 )
 
